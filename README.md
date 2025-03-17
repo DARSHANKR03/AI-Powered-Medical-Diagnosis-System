@@ -1,6 +1,4 @@
-# AI-Powered-Medical-Diagnosis-System
-
-# AI-Powered Medical Diagnosis System  
+# AI-Powered-Medical-Diagnosis-System 
 
 ## 🔍 Overview  
 This project leverages **AI and Machine Learning** to diagnose diseases such as **heart disease, lung cancer, Parkinson’s, and hypothyroidism** using medical datasets. The model is deployed using **Streamlit** for an interactive UI.  
